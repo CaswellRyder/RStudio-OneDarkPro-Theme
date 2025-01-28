@@ -16,7 +16,7 @@ A 'Total IDE' build of the One Dark Pro theme for RStudio!
 Run the following snippet in the RStudio Console:
 
 ```r
-rstudioapi::addTheme('https://raw.githubusercontent.com/CaswellRyder/RStudio-OneDarkPro-Theme/main/OneDarkPro.rstheme', apply=TRUE, force=TRUE)
+rstudioapi::addTheme('https://raw.githubusercontent.com/CaswellRyder/RStudio-OneDarkPro-Theme/main/OneDarkPro_v1.rstheme', apply=TRUE, force=TRUE)
 ```
 
 Note that this will override any other theme named 'One Dark Pro' you may have (this can be controlled by removing the `force=True` argument).
@@ -29,9 +29,9 @@ run `install.packages('rstudioapi')` and try again.
 
 ### Manual
 
-- Download the `OneDarkPro.rstheme` file from this repository (or clone)
+- Download the `OneDarkPro_v1.rstheme` file from this repository (or clone)
 - In RStudio go to Global Options -> Appearance, and click the `Add...` button under Editor Theme
-- Navigate to the downloaded `OneDarkPro.rstheme` file, hit `Open` and you're good to go
+- Navigate to the downloaded `OneDarkPro_v1.rstheme` file, hit `Open` and you're good to go
 
 ## Info
 
