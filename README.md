@@ -37,7 +37,7 @@ run `install.packages('rstudioapi')` and try again.
 
 This theme was adapted from [this theme](https://github.com/johnnybarrels/rstudio-one-dark-pro-theme)
 
-**Note**: There can be versioning issues with some of the various UI components (different item class codes etc). These usually present themselves as parts of the UI with white text on a white background. If you do run into any UI issues, feel free to look through the issues listed [here](https://raw.githubusercontent.com/CaswellRyder/RStudio-OneDarkPro-Theme/ssues) or create a new one for me to take a look at.
+**Note**: There can be versioning issues with some of the various UI components (different item class codes etc). These usually present themselves as parts of the UI with white text on a white background. If you do run into any UI issues, feel free to look through the issues listed [here](https://raw.githubusercontent.com/CaswellRyder/RStudio-OneDarkPro-Theme/issues) or create a new one for me to take a look at.
 
 The editor font I use is [Fira Code](https://github.com/tonsky/FiraCode), and the majority of the UI font is [Open Sans](https://fonts.google.com/specimen/Open+Sans). It is not necessary to install these.
 
